@@ -3,7 +3,11 @@
 This repository contains the code, methods, and findings from my Master's dissertation titled *"Filling the Missing Data in Electricity Supply Area Dataset Using Machine Learning Methods"*.
 
 ## Abstract
-This research addresses the challenge of filling missing data in electricity supply area datasets using advanced machine learning methods, in collaboration with Advanced Infrastructure Technology Ltd. The dissertation involves the use of techniques such as Random Forest and Multilayer Perceptrons to impute missing values and explore feature selection for energy data management. The research focuses on methods that can aid in better energy forecasting and optimization, providing actionable insights for energy managers.
+This dissertation investigates the effectiveness of various imputation methods for addressing missing values in the secondary electricity supply area dataset. Seven methods were tested: Mean/Median/Mode, k-Nearest Neighbours (KNN), Linear Regression (LR), Random Forest (RF), Multilayer Perceptrons (MLP), Inverse Distance Weighting (IDW), and Geographically Weighted Regression (GWR). This study found that MLP and RF outperformed simpler methods, significantly reducing error rates and capturing non-linear relationships in the data. However, none of the methods achieved perfect accuracy, particularly with high missing data percentages. The findings suggest that while advanced methods help improve results, there is still a need for better feature selection and more realistic simulation of missing data. Future studies should focus on selecting features that better capture important relationships and on simulating missing data patterns that mirror real-world situations. Overall, this research highlights the significance of selecting appropriate imputation methods for complex datasets and offers ways to improve prediction accuracy in the electricity supply area.
+
+**Keywords**: Imputation Methods, Missing Data, Multilayer Perceptrons, Electricity Supply Area.
+
+
 
 ## Key Components:
 1. **Dissertation Document**:  
@@ -38,9 +42,9 @@ For more details, visit: [CC BY-NC 4.0 License](https://creativecommons.org/lice
 ## Citation
 If you use or reference this work, please cite it as follows:
 
-Huang, L.-Y. (2025). *Filling the Missing Data in Electricity Supply Area Dataset Using Machine Learning Methods*. Master’s Dissertation, [University Name], [City], [Country].
+Huang, L.-Y. (2024). *Filling the Missing Data in Electricity Supply Area Dataset Using Machine Learning Methods*. Master’s Dissertation, City Univeristy of London, London, UK.
 
 ---
 
 ## Acknowledgments
-I would like to thank **Advanced Infrastructure Technology Ltd.** for their collaboration and for providing the datasets used in this research. I also appreciate the guidance of my dissertation supervisor, [Supervisor's Name], and the support of [Any Other Acknowledgments].
+I would like to thank **Advanced Infrastructure Technology Ltd.** for their collaboration and for providing the datasets used in this research. I also appreciate the guidance of my dissertation supervisor, **Dr. Aidan Slingsby**.
