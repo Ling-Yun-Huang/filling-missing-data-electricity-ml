@@ -1,4 +1,4 @@
-## 📂 Code Overview
+# 📂 Code Overview
 
 This folder contains Python scripts and Jupyter notebooks used for data processing, exploratory analysis, and machine learning model implementation in the dissertation project.
 
@@ -34,4 +34,8 @@ This folder contains Python scripts and Jupyter notebooks used for data processi
 
 ### 📝 License
 
-This project is licensed under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](../LICENSE).
+
+- **You may** view and download the code.
+- **You may NOT** modify, adapt, or reuse it in any form.
+- **Proper attribution is required** when referencing this work.
